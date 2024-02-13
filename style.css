@@ -5,6 +5,7 @@ body {
     justify-content: space-evenly;
     height: 100vh;
     margin: -50px 0 0 0; /* Adjust the top margin as needed */
+	background-size: cover;
     background: url('rio.jpg') no-repeat center center fixed;
     
     font-size: 20px;
